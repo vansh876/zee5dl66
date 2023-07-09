@@ -8,7 +8,7 @@
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
   "website": "https://github.com/AswanthVK",
-  "repository": "https://github.com/AswanthVK/mass",
+  "repository": "https://github.com/vansh876/zee5dl66/",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
@@ -69,7 +69,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
